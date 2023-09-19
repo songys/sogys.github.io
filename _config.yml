@@ -1,7 +1,7 @@
 # Site Info
-title: ratsgo's blog
-tagline: 'for textmining'
-description: 'blog for textmining'
+title: song's blog
+tagline: 'NLP'
+description: 'blog'
 url: http://ratsgo.github.io
 logo: '/public/logo.png'
 encoding: utf-8
@@ -50,9 +50,8 @@ tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
 
 hero:
-  image: https://ratsgo.github.io/public/img/picture.JPG
-  caption: Original Artwork &copy; Pablo Picasso. Girl before a Mirror. Boisgeloup, March 1932. Oil on canvas
-
+  image: https://songys.github.io/public/img/picture.JPG
+  caption: Good Luck
 # Puglins
 mathjax: true # whether support mathjax
 google_analytics_token: '' # leave blank if you don't want google analytics
