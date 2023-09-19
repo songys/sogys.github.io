@@ -9,19 +9,19 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '2skydev blog',
-  domain: 'blog.2skydev.com',
-  author: '2skydev',
+  name: 'songys blog',
+  domain: 'https://songys.github.io/',
+  author: 'yougsook_song',
 
   // open graph metadata (optional)
-  description: '2skydev blog - developer blog',
+  description: 'songys blog - developer blog',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
   github: '2skydev',
-  // linkedin: 'fisch2',
+  // linkedin: 'https://www.linkedin.com/in/%EC%98%81%EC%88%99-%EC%86%A1-768491b0/',
   // newsletter: '#', // optional newsletter URL
-  // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
+  // youtube: '#`
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
@@ -75,7 +75,7 @@ export default siteConfig({
   contentPositionTextAlign: 'left',
 
   // default theme color
-  defaultTheme: 'system',
+  defaultTheme: 'dark',
 
   // enable comment
   enableComment: true,
