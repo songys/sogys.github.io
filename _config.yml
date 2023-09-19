@@ -24,15 +24,15 @@ version: 1.0.0
 # About/contact
 author:
   name: ratsgo
-  description: <strong>보물찾기</strong> 그리운 마을, 그 먼 바다에 이르기까지
+  description: <strong>오늘 하루</strong>
   gravatar: 0a638fc7996869b1b67fb90ccf77dcfe # md5 hash of your email address
   contact:
-    linkedin:  https://www.linkedin.com/in/gichanglee/
-    github:    https://github.com/ratsgo
-    facebook:  https://www.facebook.com/gichanglee.84
+    linkedin:  https://www.linkedin.com/in/%EC%98%81%EC%88%99-%EC%86%A1-768491b0//
+    github:    https://github.com/songys
+    facebook:  https://www.facebook.com/youngsook.song.1
     #twitter:  <hide>
     #weibo:    <hide>
-    email:     mailto:gichang_lee@korea.ac.kr
+    email:     mailto:klaguage1004@gmail.com
 
 # Navigation (2nd level links supported)
 nav:
@@ -55,6 +55,6 @@ hero:
 
 # Puglins
 mathjax: true # whether support mathjax
-google_analytics_token: 'UA-93172815-1' # leave blank if you don't want google analytics
-disqus_short_name: 'ratsgo-github-io' # leave blank if you don't want disqus
+google_analytics_token: '' # leave blank if you don't want google analytics
+disqus_short_name: 'songys-github-io' # leave blank if you don't want disqus
 
