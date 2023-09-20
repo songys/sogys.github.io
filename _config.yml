@@ -25,7 +25,7 @@ version: 1.0.0
 author:
   name: song
   description: <strong>오늘 하루</strong>
-  gravatar:  70b2c5173d538adf16779fc28324f3e9 # md5 hash of your email address
+  gravatar:  456f25c4b031af3b4326f0846ca6536d4001af98a09389bec97298a308453327? # md5 hash of your email address
   contact:
     linkedin:  https://www.linkedin.com/in/%EC%98%81%EC%88%99-%EC%86%A1-768491b0//
     github:    https://github.com/songys
